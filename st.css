@@ -1,0 +1,43 @@
+body
+{
+	background-color: #F0FFFF;
+}
+.H
+{
+	text-transform: uppercase;
+	color: red;
+	display: block;
+}
+#row
+{
+	display: block;
+}
+.text
+{
+	text-align: center;
+}
+.para1{
+	border: 2px red solid;
+	border-radius: 0px 20px 0 20px;
+	margin: 10px;
+	background-color: #FFE4C4;
+}
+.para2{
+	border: 2px red solid;
+	border-radius: 0px 20px 0 20px;
+	margin: 50px;
+	background-color: #00ffff;
+}
+.para3{
+	border: 2px red solid;
+	border-radius: 0px 20px 0 30px;
+	margin: 10px;
+	background-color: #7fff00;
+}
+.para4{
+	border: 2px red solid;
+	border-radius: 0px 20px 0 30px;
+	margin: 10px;
+	background-color: #ffd700;
+}
+	
